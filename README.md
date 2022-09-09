@@ -5,11 +5,11 @@
 
 1. Marca les UFs de primer d'aquest mòdul que tens superades:
 
-    a- UF1
+    a- UF1 si
 
-    b- UF2
+    b- UF2 si
 
-    c- UF3
+    c- UF3 si
 
 2. Has programat abans de començar els estudis de DAW? On? Quant de temps?
 
